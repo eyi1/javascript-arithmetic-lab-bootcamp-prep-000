@@ -17,3 +17,10 @@ function multiply(a,b){
 
 }
 multiply(2,3)
+
+function divide(a,b){
+  var result = (a/b);
+  return result
+}
+
+divide (2,3)
