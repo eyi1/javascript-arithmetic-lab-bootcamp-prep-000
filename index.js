@@ -48,3 +48,11 @@ function makeInt(n){
   return n
 }
 makeInt(0x2328)
+
+
+function preserveDecinmal (n){
+  parseFloat(n)
+  return n
+}
+
+preserveDecinmal(10)
