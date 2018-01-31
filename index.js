@@ -50,9 +50,15 @@ function makeInt(n){
 makeInt(0x2328)
 
 
-function preserveDecinmal (n){
+function preserveDecimal (n){
   parseFloat(n)
   return n
 }
 
-preserveDecinmal(10)
+preserveDecimal(10)
+
+preserveDecimal(n){
+  parseFloat(n)
+  return n
+}
+preserveDecimal(.5)
