@@ -10,3 +10,10 @@ function subtract (a,b){
   return result
 }
 add (2,3)
+
+function multiply(a,b){
+  var result = (a*b)
+  return result
+  
+}
+multiply(2,3)
