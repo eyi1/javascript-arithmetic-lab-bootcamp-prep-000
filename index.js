@@ -42,3 +42,9 @@ function makeInt(n){
   return n
 }
 makeInt(3)
+
+function makeInt(n){
+  parseInt(n)
+  return n
+}
+makeInt(2,10)
