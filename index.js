@@ -26,6 +26,7 @@ function divide(a,b){
 divide (2,3)
 
 function inc(n){
-  return n++
+  n+=n 
+  return n
 }
 inc(2)
