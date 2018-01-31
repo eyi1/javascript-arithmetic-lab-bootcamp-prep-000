@@ -24,3 +24,9 @@ function divide(a,b){
 }
 
 divide (2,3)
+
+function inc(n){
+  n = n++
+  return n
+}
+inc(2)
