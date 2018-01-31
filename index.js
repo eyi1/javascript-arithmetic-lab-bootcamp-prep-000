@@ -30,3 +30,9 @@ function inc(n){
   return n
 }
 inc(2)
+
+function dec(n){
+  n--
+  return n
+}
+inc(20)
