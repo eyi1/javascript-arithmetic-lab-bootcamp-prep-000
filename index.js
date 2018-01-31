@@ -55,10 +55,10 @@ function preserveDecimal (n){
   return n
 }
 
-preserveDecimal(10)
+preserveDecimal(10.90)
 
 preserveDecimal(n){
   parseFloat(n)
   return n
 }
-preserveDecimal(.5)
+preserveDecimal(1.5999)
