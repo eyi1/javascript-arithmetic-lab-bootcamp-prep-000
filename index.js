@@ -56,3 +56,9 @@ function preserveDecimal (n){
 }
 
 preserveDecimal(10.90)
+
+preserveDecimal(n){
+  parseFloat(n)
+  return n
+}
+preserveDecimal(1.5999)
