@@ -47,4 +47,4 @@ function makeInt(n){
   parseInt(n)
   return n
 }
-makeInt(2,10)
+makeInt('0x2328', 10)
