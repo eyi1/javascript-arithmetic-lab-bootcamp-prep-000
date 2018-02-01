@@ -46,7 +46,7 @@ makeInt(3)
 function makeInt(n){
   return n
 }
-makeInt(0x2328)
+makeInt('0x2328')
 
 
 function preserveDecimal (n){
