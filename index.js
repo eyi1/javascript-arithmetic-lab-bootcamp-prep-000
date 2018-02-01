@@ -51,8 +51,8 @@ makeInt(0x2328)
 
 
 function preserveDecimal (n){
-  parseFloat(n)
-  return n
+  )
+  return parseFloat(n)
 }
 
 preserveDecimal(10.90)
