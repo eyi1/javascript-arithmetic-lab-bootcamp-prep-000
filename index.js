@@ -44,7 +44,6 @@ function makeInt(n){
 makeInt(3)
 
 function makeInt(n){
-  parseInt(n)
   return n
 }
 makeInt(0x2328)
